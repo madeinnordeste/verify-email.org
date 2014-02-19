@@ -14,3 +14,7 @@ Validate real emails with verify-email.org API
 	
 	
 ![Result Fields](https://raw.github.com/madeinnordeste/verify-email.org/master/verify-email-results.png "Result Fields")
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/madeinnordeste/verify-email.org/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
